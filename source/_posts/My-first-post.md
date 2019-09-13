@@ -2,8 +2,9 @@
 title: My first post
 date: 2019-08-06 22:12:50
 description: An example of the marvellous hexo framework!
-tags: [test, prova]
-thumbnail: images/coding3.jpg
+categories: Coding
+tags: [javascript, ES6]
+thumbnail: /images/coding3.jpg
 ---
 
 # Example

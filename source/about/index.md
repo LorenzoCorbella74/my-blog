@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 type: page
 date: 2019-08-06 22:33:04
 ---
