@@ -3,7 +3,7 @@ title: My first post
 date: 2019-08-06 22:12:50
 description: An example of the marvellous hexo framework!
 tags: [test, prova]
-thumbnail: https://via.placeholder.com/150
+thumbnail: images/coding3.jpg
 ---
 
 # Example
