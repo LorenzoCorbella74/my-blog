@@ -1,9 +1,9 @@
 # My personal blog
-This is the code for my personal blog and portfolio site built with [Hexo](https://hexo.io/)!.
+This is the code for my personal blog and portfolio site published at the following [address](https://affectionate-cray-b35aba.netlify.com/)..
 
 ## Built With
 
-HTML5, CSS, Javascript, [Hexo](https://hexo.io/)
+[Hexo](https://hexo.io/)
 
 ## Versioning
 
