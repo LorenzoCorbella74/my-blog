@@ -1,7 +1,7 @@
 ---
 title: MyFps
 date: 2019-09-19 11:19:37
-categories: [Projects]
+categories: [Projects,Coding]
 tags: [coding, game development,webapp]
 thumbnail: /images/myFps.PNG
 ---
