@@ -3,7 +3,7 @@ title: The beginning
 date: 2019-08-06 22:12:50
 description: Everything that has an ending, has a beginning!
 categories: Coding
-tags: [javascript, ES6]
+tags: [Hexo]
 thumbnail: /images/coding3.jpg
 ---
 
